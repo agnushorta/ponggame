@@ -1,4 +1,4 @@
-#Pong Game
+# Pong Game
 
 Based on [Pong Game Tutorial](https://kivy.org/doc/stable/tutorials/pong.html) using Kivy.
 
