@@ -2,6 +2,9 @@
 
 Based on [Pong Game Tutorial](https://kivy.org/doc/stable/tutorials/pong.html) using Kivy.
 
+[Kivy](https://kivy.org/#home) is an Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps.
+
+![Kivy logo](https://kivy.org/logos/kivy-logo-black-64.png)
 ### To do
 
 - Add some nicer graphics / images. (Hint: check out the source property on the graphics instructions like circle or Rectangle, to set an image as the texture.)
